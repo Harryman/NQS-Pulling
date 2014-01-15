@@ -61,6 +61,12 @@ I decided to throw the rules up on github to make it a little bit easier to see 
 
 * [39 Cube V-twin Class:] 45 cubic inch V-twins, same restrictions as the 39 cube Vtwins, can run in this class with a handicap. V-twin engines between 39ci to 45ci will run at 1000# with a 12” hitch height, V-twin engines 39ci and smaller will be 1050# with a 13” hitch height. Same handicap for in the PST class also.
 
+* Engine Builder Cup Points: 
+  * PS/SS cup points will be expanded to include the following classes: Pro Stock, Super Stock, Pro Outlaw and Pro/Super/Twin class. Engine builders will be awarded points to their two (2) best finishing engines inthe group of classes (i.e. 1st in PS and 4th in Pro Outlaw).
+  * Stock Altered: the two(2) best finishing engines in the two stock altered classes (i.e. 2nd in 1050 and 4th in 1100). 
+  * “New Lite Pro” engine builder similar to Stock Altered with the two (2) best finishing engines (i.e. 3rd in 950 and 1st in 1000). 
+  * “New V-twin” engine builder: This will include the classes of 5000 Governor Twin, 39 Twin and Pro Vtwin classes. Best two (2) finishing engines (i.e. 1st in 5G Twin and 3rd in 39twin). Points will be awarded at the same rate as they are currently.
+
 
 
 
