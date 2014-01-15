@@ -59,11 +59,12 @@ I decided to throw the rules up on github to make it a little bit easier to see 
   24. Intercoolers and ice boxes are not permitted.
   25. All NQS rules not in conflict with these apply
 
+* [39 Cube V-twin Class:] 45 cubic inch V-twins, same restrictions as the 39 cube Vtwins, can run in this class with a handicap. V-twin engines between 39ci to 45ci will run at 1000# with a 12” hitch height, V-twin engines 39ci and smaller will be 1050# with a 13” hitch height. Same handicap for in the PST class also.
 
 
 
 
-
+  [39 Cube V-twin Class:]: http://www.nqspulling.org/rules/39cuin-Altered-V-twin-Rules.html
   [Limited Pro Stock Diesel Class]: http://www.nqspulling.org/rules/Limited-Pro-Stock-Diesel-Rules.html
   [5000RPM Governor Twin Class]: http://www.nqspulling.org/rules/5000-Governor-Twin-Rules.html
   [5000RPM Governor Single Class]: http://www.nqspulling.org/rules/5000-Governor-Single-Rules.html
